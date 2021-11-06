@@ -6,3 +6,6 @@ En matemática, la sucesión o serie de Fibonacci es la siguiente sucesión infi
 
 La sucesión comienza con los números 0 y 1; a partir de estos cada término es la suma de los dos anteriores, es la relación de recurrencia que la define.
 
+## Pendiente
+Mismo ejercicio en forma recursiva
+
